@@ -1,0 +1,8 @@
+aiohttp>=3.7.4
+youtube_search_python
+pyrogram>=1.2.x
+tgCrypto>=1.2.2
+ffmpeg
+ujson
+youtube_dl
+youtube_search
